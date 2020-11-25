@@ -224,7 +224,23 @@ footer a {
     margin: 30px 0 0 60px;
     color: white;
   }
-
+.contact h3 {
+    color: #fce138;
+    font-size: 32px;
+  }
+  
+.contacto p, .contact address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+  }
+  
+.contact a {
+    color: #fce138;
+  }
+  
+  /* REACH OUT STYLES END */
 .section-title {
     font-size: 55px;
     color: #024e76;
