@@ -241,6 +241,13 @@ footer a {
   }
   
   /* REACH OUT STYLES END */
+
+.hero-secondary {
+    margin: 20px;
+    background-color: black;
+    font-size: 20px;
+    color: red;
+}
 .section-title {
     font-size: 55px;
     color: #024e76;
