@@ -136,7 +136,7 @@ footer a {
 
 /* WHAT WE DO */
 .intro {
-    text-align: center;
+
 }
 .intro h2 {
 }
@@ -151,7 +151,6 @@ footer a {
 
 /* WHAT YOU DO */
 .steps {
-    text-align: center;
     background: #fce138;
 }
 .steps h2 {
@@ -183,7 +182,7 @@ footer a {
 
 /* TRAINER SECTION */
 .trainers {
-    text-align: center;
+
 }
 .trainer {
     width: 900px;
@@ -226,7 +225,6 @@ footer a {
 
 /* REACH OUT */
 .contact {
-    text-align: center;
     background: #024e76;
 }
 .contact h2 {
@@ -271,10 +269,9 @@ footer a {
 .section-title {
     font-size: 55px;
     color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
     border-bottom: 3px solid;
-    border-color: #39a6b2;   
+    border-color: #39a6b2; 
+
 }
 
 .primary-border {
@@ -286,4 +283,7 @@ footer a {
 
 section {
     padding: 60px;
+}
+.flex-row {
+    display: flex;
 }
